@@ -1,0 +1,6 @@
+average chamfer distance: 0.06192419482424681
+average structure distance: 0.20014558685305175
+average edge precision: 0.7826134624585064
+average edge recall: 0.7280968767621618
+average pred binary diff: 0.018297762541008396
+average gt binary diff: 0.02262145839472618

@@ -1,0 +1,6 @@
+box pc chamfer distance: 0.07662326842546463
+structure distance: 0.23076923076923078
+edge precision: 0.7894736842105263
+edge recall: 0.7317073170731707
+pred binary diff: 0.015431069468736257
+gt binary diff: 0.04361464372486808
